@@ -101,11 +101,19 @@ This document describes the features of the Client Registration App developed us
    - Press `F11` to toggle fullscreen mode.
    - Press `Escape` to exit fullscreen mode.
 
+## Usage from terminal
+1. Ensure you have Python 3 installed on your system.
+2. Install the required dependencies:
+```console
+pip install ttkthemes
+```
+3. Run the application
+```console
+python client_app.py
+```
+
 ## Future Enhancements
 - Integration with cloud storage for data backup.
 - Advanced search and filter options for client records.
 - Multi-user support with authentication.
 
----
-
-This app provides a robust foundation for managing client data with an intuitive interface and essential features. Future enhancements will further expand its functionality and usability.
